@@ -2,6 +2,7 @@
 **Project on Chat GPT Tweets Topic Modeling and Sentiment Analysis**
 
 Project members: Snigdha Enumulapally, Sri Samhitha Pallelamudi, Naga S Srivalli Chadalavada, Prajyot Karnik
+
 Business Analytics(MSBA) 
 California State University, East Bay
 Hayward, USA
