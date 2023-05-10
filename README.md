@@ -1,6 +1,8 @@
 # ChatGPT_Tweet_Analysis
 **Project on Chat GPT Tweets Topic Modeling and Sentiment Analysis**
 
+Project members: Snigdha Enumulapally, Sri Samhitha Pallelamudi, Naga S Srivalli Chadalavada, Prajyot Karnik
+
 The inspiration for this project comes from the widespread discussions and opinions about the new AI chatbot ChatGPT currently taking place over the internet. ChatGPT is an artificial intelligence (AI) chatbot that understands and generates natural human language with remarkable sophistication, sensitivity, and usability. ChatGPT has attracted more than 1 million users in just one week after it was launched, leaving behind other popular online platforms in terms of adoption rates. 
 
 Early adopters are typically the most passionate and influential users of a product. Their opinions and sentiments can shape the overall perception of new technology. Therefore, exploring the early adopter sentiments, particularly for a disruptive technology such as ChatGPT, would increase the chances of success of the tool in the market. Analyzing the sentiment of tweets on ChatGPT, gives us a better understanding of how the people are responding to this new AI. It helps in gaining a deeper understanding of how the model is being used in the real-world and what kind of tasks people are using it for. We can also understand how the impact or usage of chatGPT is changing overtime. 
