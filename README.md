@@ -1,5 +1,5 @@
 # ChatGPT_Tweet_Analysis
-Project on Chat GPT Tweets Topic Modeling and Sentiment Analysis
+**Project on Chat GPT Tweets Topic Modeling and Sentiment Analysis**
 
 The inspiration for this project comes from the widespread discussions and opinions about the new AI chatbot ChatGPT currently taking place over the internet. ChatGPT is an artificial intelligence (AI) chatbot that understands and generates natural human language with remarkable sophistication, sensitivity, and usability. ChatGPT has attracted more than 1 million users in just one week after it was launched, leaving behind other popular online platforms in terms of adoption rates. 
 
