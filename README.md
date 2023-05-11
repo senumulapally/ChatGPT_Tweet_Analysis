@@ -10,6 +10,6 @@ For this study, we have chosen to utilize Twitter as a source of data to assess 
 The goal of this project is to develop a natural language processing (NLP) model to analyze the sentiment and the topics discussed in tweets containing the #ChatGPT. The project will involve collecting a large dataset of tweets, preprocessing the data, identifying teh topics and then training and evaluating the NLP model. The model will be trained to classify tweets as positive, negative, or neutral. Once the model is trained, it will be used to classify new tweets in real-time. The project will also include a visualization component, where the sentiment analysis results will be displayed on a dashboard. This will allow users to see the sentiment of ChatGPT tweets over time and filter the tweets by keywords and hashtags. The ultimate aim of this project is to understand how people are reacting to the language model and how the model is being used in the real-world.
 
 
-Project members: Snigdha Enumulapally, Sri Samhitha Pallelamudi, Naga S Srivalli Chadalavada, Prajyot Karnik
+**Project members:** Snigdha Enumulapally, Sri Samhitha Pallelamudi, Naga S Srivalli Chadalavada, Prajyot Karnik
 
 Business Analytics(MSBA). California State University, East Bay. Hayward, USA
